@@ -1,3 +1,5 @@
+*⚠️ Note:* This repository is no longer maintained.
+
 # Notes on Releases
 
 ## Release Cycles
